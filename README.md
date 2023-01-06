@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello / Bonjour 👋
+
+I'm Jean-Maxime Noiseux, a geomatician living in Ottawa, ON, Canada. A trained geomatician working in Emergency Management, I am currently learning to become a full-stack developer.
 
 <!--
 **noiseux/noiseux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
